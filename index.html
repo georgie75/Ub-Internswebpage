@@ -103,45 +103,45 @@
                             <div class="d-flex flex-column flex-md-row gap-3 mb-3">
                                 <div class="col form-floating">
                                     <input type="text" class="form-control" id="floatingInput"
-                                        placeholder="First name" name="firstname">
+                                        placeholder="First name" name="firstname" required>
                                     <label for="floatingInput"> First name</label>
                                 </div>
                                 <div class="col form-floating">
                                     <input type="text" class="form-control" id="floatingInput"
-                                        placeholder="Last name" name="lastname">
+                                        placeholder="Last name" name="lastname" required>
                                     <label for="floatingInput"> Last name</label>
                                 </div>
                             </div>
                             <div class="form-floating mb-3">
-                                <input type="text" class="form-control" id="floatingInput"
-                                    placeholder="Organization" name="organization">
-                                <label for="floatingInput">Organization</label>
+                                <input type="text" class="form-control" id="floatingInput "
+                                    placeholder="Organization" name="organization" required>
+                                <label for="floatingInput ">Organization</label>
                             </div>
 
                             <p class="fw-bold">Attending Date:</p>
                             <div class="form-check mb-3 d-flex flex-wrap gap-3">
                                 <label class="me-3">
-                                    <input type="radio" name="attending-date" value="2 May 2024">
-                                    <span>2 May 2024</span>
+                                    <input type="radio" name="attending-date" value="2 May 2024" required>
+                                    <label class="form-check-label" for="validationFormCheck2">2 May 2024</label>
                                 </label>
                                 <label class="me-3">
-                                    <input type="radio" name="attending-date" value="3 May 2024">
-                                    <span>3 May 2024</span>
+                                    <input type="radio" name="attending-date" value="3 May 2024" required>
+                                    <label class="form-check-label" for="validationFormCheck2">3 May 2024</label>
                                 </label>
                                 <label class="me-3">
-                                    <input type="radio" name="attending-date" value="Both">
-                                    <span>Both</span>
+                                    <input type="radio" name="attending-date" value="Both" required>
+                                    <label class="form-check-label" for="validationFormCheck2">Both</label>
                                 </label>
                             </div>
 
                             <p class="fw-bold">Attending:</p>
                             <div class="form-check mb-3 d-flex flex-wrap gap-3">
                                 <label>
-                                    <input type="radio" name="attending_type" value="2 May 2024">
+                                    <input type="radio" name="attending_type" value="2 May 2024" required>
                                     <span>Online</span>
                                 </label>
                                 <label>
-                                    <input type="radio" name="attending_type" value="Both">
+                                    <input type="radio" name="attending_type" value="Both" required>
                                     <span>In Person</span>
                                 </label>
                             </div>
