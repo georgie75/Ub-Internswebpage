@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+            integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <link href="./css/style.css" rel="stylesheet">
+        <title>UBInternship</title>
+
+    </head>
+    <body>
+        <!-- navbar -->
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid container-md">
+                <a class="navbar-brand" href="index.html">
+                    <img src="./Assets/Logos/UB Logo High RES.png" alt="UB-logo" height="90px" loading="lazy">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav nav-underline ms-auto mb-2 mb-lg-0 px-3">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="./index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Interns</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Presentation Agenda</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Hosts Organizations</a>
+                        </li>
+                    </ul>
+                    <a href="#Register" class="btn registerbtn">Register Now</a>
+                </div>
+            </div>
+        </nav>
+
+        <!-- hero section -->
+        <section id="hero" class="align-content-center">
+            <div class="container px-4 pt-5">
+                <div class="row flex-md-row-reverse justify-content-center align-items-center g-5 g-md-0">
+                    <div class="col-12 col-md-5">
+                        <img src="./Assets/InternPics-A/Zyon Morter.jpg" class="d-block mx-lg-auto img-fluid"
+                            alt="UB-logo" height="500px" loading="lazy">
+                    </div>
+                    <div class="col-md-7 d-flex flex-column justify-content-center">
+                        <h1 class="text-center display-4 fw-bold text-body-emphasis lh-1 mb-3">INTERNSHIP OVERVIEW</h1>
+                        <p class="lead" style="text-align: justify;">As part of the graduation requirement students from
+                            our Associates in
+                            Information Technology
+                            (AINT) and Bachelor in Information Technology (BINT), in their final semester of the program
+                            each enroll in our internship course (CMPS2992 & CMPS4992). This is a 9-week and 12-week
+                            work arrangement designed to provide students with practical work experience (in an
+                            established firm) that will complement the many hours of in-class work they have undertaken
+                            with the University. Students on internship are essentially employed by the organization
+                            they serve and are expected to conduct work related to IT or other technological areas
+                            within the organization.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="Register" class="align-content-center">
+            <div class="container  px-4 py-5">
+                <div class="row flex-md-row-reverse align-items-center g-lg-5 py-5">
+
+                    <div class="col-lg-7 text-center text-lg-start text-light">
+                        <h1 class="display-4 fw-bold lh-1 mb-3 ">DON'T MISS OUT</h1>
+                        <p class="col-lg-10 fs-4">Witness the presentations of our 2024 IT interns. Register now to
+                            secure your spot. Fill out the registration form today and join us in celebrating the
+                            achievements of our future IT leaders. Your presence will make this event even more special.
+                            Register Now!</p>
+                        <div class="row p-4 gap-4 py-md-5 align-items-center justify-content-start">
+                            <div
+                                class="col-12 col-xl-4 align-content-center justify-content-center border-cal">
+                                <p>Associates Presentation</p>
+                                <a href="#" class="text-light link-offset-2 link-underline link-underline-opacity-0">
+                                    <img src="./Assets/img/calendar-1.png" alt="calendar-1">2 May 2025
+                                </a>
+                            </div>
+
+                            <div class="col-12 col-xl-4 ps-lg-3 align-content-center justify-content-center">
+                                <p>Bachelors Presentation</p>
+                                <a href="#"
+                                    class="text-light link-offset-2 link-underline link-underline-opacity-0"><img
+                                        src="./Assets/img/calendar-1.png" alt="calendar-1">3 May
+                                    2025</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-12 mx-auto col-lg-5">
+                        <form class="p-4 p-md-4 border rounded-4 bg-body-tertiary">
+                            <p class="title">Register</p>
+                            <p class="message">Sign up to attend the intern's presentation.</p>
+                            <div class="d-flex flex-column flex-md-row gap-3 mb-3">
+                                <div class="col form-floating">
+                                    <input type="text" class="form-control" id="floatingInput"
+                                        placeholder="First name" name="firstname">
+                                    <label for="floatingInput"> First name</label>
+                                </div>
+                                <div class="col form-floating">
+                                    <input type="text" class="form-control" id="floatingInput"
+                                        placeholder="Last name" name="lastname">
+                                    <label for="floatingInput"> Last name</label>
+                                </div>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input type="text" class="form-control" id="floatingInput"
+                                    placeholder="Organization" name="organization">
+                                <label for="floatingInput">Organization</label>
+                            </div>
+
+                            <p class="fw-bold">Attending Date:</p>
+                            <div class="form-check mb-3 d-flex flex-wrap gap-3">
+                                <label class="me-3">
+                                    <input type="radio" name="attending-date" value="2 May 2024">
+                                    <span>2 May 2024</span>
+                                </label>
+                                <label class="me-3">
+                                    <input type="radio" name="attending-date" value="3 May 2024">
+                                    <span>3 May 2024</span>
+                                </label>
+                                <label class="me-3">
+                                    <input type="radio" name="attending-date" value="Both">
+                                    <span>Both</span>
+                                </label>
+                            </div>
+
+                            <p class="fw-bold">Attending:</p>
+                            <div class="form-check mb-3 d-flex flex-wrap gap-3">
+                                <label>
+                                    <input type="radio" name="attending_type" value="2 May 2024">
+                                    <span>Online</span>
+                                </label>
+                                <label>
+                                    <input type="radio" name="attending_type" value="Both">
+                                    <span>In Person</span>
+                                </label>
+                            </div>
+                            <hr>
+                            <button class="w-100 btn btn-lg btn-primary mt-2" type="submit">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- join us section -->
+        <section id="join-us">
+            <div class="container col px-4 py-5">
+                <div class="row  align-items-center justify-content-center g-5 py-5">
+                    <div class="col-lg-7 justify-content-center">
+                        <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">JOIN US ONLINE!</h1>
+                        <p class="lead">Can’t make it in person? No problem! We’ve got you covered. You can join us
+                            online via Zoom</p>
+                        <br>
+                        <div class="d-flex flex-column flex-md-row align-items-center">
+                            <img class="zoom" src="./Assets/img/zoom.png" alt="zoom-icon" height="80px" />
+                            <div class="d-flex flex-row gap-1">
+                                <p>Zoom Meeting Link: </p>
+                                <a
+                                    href="https://us06web.zoom.us/j/86803449142?pwd=T7tDCvQpKZ7j76swtHkVHzDRTnxKYX.1">
+                                    Click here to join the meeting</a>
+                            </div>
+                        </div>
+                        <br>
+                        <p class="lead">To make things even easier, you can scan the QR code with your smartphone to
+                            join the meeting instantly.</p>
+                        <br>
+                        <p class="lead">Please note: If you’re using Zoom for the first time, you might need to install
+                            the Zoom app
+                            on your device.</p>
+                        <br>
+                        <p class="lead">We look forward to seeing you online!</p>
+                    </div>
+
+                    <div class="col-10 col-lg-4 d-flex justify-content-center align-items-center">
+                        <div class="card">
+                            <div class="card__content">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- footer -->
+        <section id="footer">
+            <footer class=" text-center text-lg-start text-white">
+                <!-- Grid container -->
+                <div class="container pt-4">
+                    <!--Grid row-->
+                    <div class="row">
+                        <!--Grid column-->
+                        <div class="col-lg-5 col-md-6 mb-4 mb-md-0">
+
+                            <div>
+                                <img src="/Assets/Logos/UB Logo High RES.png" alt="UB-logo" loading="lazy"
+                                    height="200" />
+                            </div>
+
+                            <!-- <p class="text-center">Homless animal shelter The budgetary unit of the Capital City of
+                                Warsaw</p> -->
+
+                        </div>
+
+                        <!--Grid column-->
+                        <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                            <h5 class="text-uppercase mb-4">Sitemap</h5>
+
+                            <ul class="list-unstyled">
+                                <li class="mb-2">
+                                    <a href="index.html" class="text-white"><i class="fas fa-paw pe-3"></i>Home</a>
+                                </li>
+                                <li class="mb-2">
+                                    <a href="#!" class="text-white"><i class="fas fa-paw pe-3"></i>Interns</a>
+                                </li>
+                                <li class="mb-2">
+                                    <a href="#!" class="text-white"><i class="fas fa-paw pe-3"></i>Presentation
+                                        Agenda</a>
+                                </li>
+                                <li class="mb-2">
+                                    <a href="#!" class="text-white"><i class="fas fa-paw pe-3"></i>Hosts
+                                        Organizations</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <!--Grid column-->
+                        <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+                            <h5 class="text-uppercase mb-4">Contact</h5>
+
+                            <ul class="list-unstyled">
+                                <li>
+                                    <p><i class="fas fa-map-marker-alt pe-2"></i>Hummingbird Avenue City of Belmopan,
+                                        Cayo</p>
+                                </li>
+                                <li>
+                                    <p><i class="fas fa-phone pe-2"></i>(501) 822-1000/822-3680​</p>
+                                </li>
+                                <li>
+                                    <p><i class="fas fa-envelope pe-2 mb-0"></i>admissions@ub.edu.bz</p>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <!--Grid column-->
+
+                    </div>
+
+                </div>
+                <!-- Grid container -->
+
+                <!-- Copyright -->
+                <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
+                    © 2024 Copyright: Univeristy of Belize | George Kotch & Moises Martinez
+                </div>
+                <!-- Copyright -->
+            </footer>
+        </section>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+            crossorigin="anonymous"></script>
+    </body>
+</html>
