@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+            integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <link href="./css/style.css" rel="stylesheet">
+        <title>UBInternship</title>
+
+    </head>
+    <body>
+        <!-- navbar -->
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid container-md">
+                <a class="navbar-brand" href="index.html">
+                    <img src="./Assets/Logos/UB Logo High RES.png" alt="UB-logo" height="90px" loading="lazy">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav nav-underline ms-auto mb-2 mb-lg-0 px-3">
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="./index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Interns</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Presentation Agenda</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="./hosts.html">Hosts Organizations</a>
+                        </li>
+                    </ul>
+                    <a href="./index.html#Register" class="btn registerbtn">Register Now</a>
+                </div>
+            </div>
+        </nav>
+
+        <section id="be-host">
+            <div class="container col-xl-10 px-4 py-5">
+                <div class="row align-items-center g-lg-5 py-5">
+                    <div class="col-lg-7 text-center text-lg-start">
+                        <h1 class="display-4 fw-bold lh-1 text-body-emphasis mb-3">HOSTS ORGANIZATIONS</h1>
+                        <p class="col-lg-10 fs-4">A big thank you to all the amazing
+                            organizations that joined us for
+                            the 2024 IT Interns Presentations! 🌟 Interested in being a host next time? Please fill in
+                            the form!</p>
+                    </div>
+                    <div class="col-md-10 mx-auto col-lg-5">
+                        <form class="p-4 p-md-5 border rounded-3 bg-body-tertiary">
+                            <div class="d-flex flex-column flex-md-row gap-2 mb-3">
+                                <div class="col form-floating">
+                                    <input type="text" class="form-control" id="floatingInput"
+                                        placeholder="First name" name="firstname" required>
+                                    <label for="floatingInput"> First name</label>
+                                </div>
+                                <div class="col form-floating">
+                                    <input type="text" class="form-control" id="floatingInput"
+                                        placeholder="Last name" name="lastname" required>
+                                    <label for="floatingInput"> Last name</label>
+                                </div>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input type="text" class="form-control" id="floatingInput "
+                                    placeholder="Organization" name="organization" required>
+                                <label for="floatingInput ">Organization</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input type="email" class="form-control" id="floatingInput"
+                                    placeholder="name@example.com" name="Email" required>
+                                <label for="floatingInput">Email address</label>
+                            </div>
+                            <button class="w-100 btn btn-lg btn-primary" type="submit">Sign
+                                up</button>
+                            <hr class="my-4">
+                            <small class="text-body-secondary">By clicking Sign up, you agree to be an upcoming
+                                host</small>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- host logos -->
+        <section id="hosts-logos" class="py-5 mb-5">
+            <div class="container">
+                <div class="row gy-2">
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/5cs.png" class="img-fluid" alt="Logo1" loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Caribbean Community Climate Change Center</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/agripec.png" class="img-fluid" alt="Logo1" loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Agriculture Precision</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/adaviv.png" class="img-fluid" alt="Logo1" loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>AdaViv</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/aplus -90.png" class="img-fluid" alt="Logo1" loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>A+ Computer Solutions</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/BBL.png" class="img-fluid" alt="Logo1" loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Belize Bank</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/BEL-Logo.png" class="img-fluid" alt="Logo1" loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Belize Electricity Limited</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/Belize-FSC-Logo.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Belize Financial Services Commission</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/BelizeCityCouncil.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Belize City Council</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/belladigital-logo.svg" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Bella Digtial</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/BelmopanCityCouncil.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Belmopan City Council</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/Btb-logo.png" class="img-fluid" alt="Logo1" loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Belize Tourism Board</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/CentralTv.png" class="img-fluid" alt="Logo1" loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Central TV and Internet</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/CITO-Logo.png" class="img-fluid" alt="Logo1" loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Central Information Techonolgy Office</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/DBMIS-logo-Regular.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Department of Boarder Management and Immigration Services</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/eGovernance.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>E-Governance & Digitalization Unit</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/EngineeringLogo.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Univeristy of Belize Engineering Dept.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/epy logo.png" class="img-fluid" alt="Logo1" loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Eduard P. Yorke</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/ForestDepartment.png.webp" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Belize Forest Department</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/geek-army-pc-repair-and-networking.png" class="img-fluid"
+                                    alt="Logo1" loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Geek Army PC Repair</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/Invictus_logo.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Invictus</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/Lotteries_logo_horizontal.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Belize Government Lotteries Ltd.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/ministryPSC.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Ministry of Public Service Consultations and Political Reform and Religious
+                                    Affairs</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/MinNaturalResLogo.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Ministry of Natural Resources, Petroleum and Mining.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/MoECST-Logo.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Ministry of Education Culture Science Techonolgy</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/officeGurus.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>The Office Gurus Call Center Solutions</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/RadissonFG-logo.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Fort George Hotel & Spa</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/Sarabia.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Sarabia Innovative Consultancy</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/SIB_Logo_Retina.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Statistic Institute of Belize</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/smartlogo2.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Smart Brings People Together</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/SSB-Logo-Original.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Social Security Board</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/the-belize-collection-stacked-logo-color.png" class="img-fluid"
+                                    alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>The Belize Collection</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/thinkTech-Logo.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Think Tech Limited</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/TransparentBPO-Logo.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Transparent BPO</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/UB Logo High RES.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Univeristy of Belize</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/UB_Research_logo.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Univeristy of Belize Research Office</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-center align-content-center">
+                        <div class="card">
+                            <div class="first-content">
+                                <img src="./Assets/Logos/VictoriousPatch.png" class="img-fluid" alt="Logo1"
+                                    loading="lazy" />
+                            </div>
+                            <div class="second-content">
+                                <span>Victorious Nazarene Primary School</span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- footer -->
+        <section id="footer">
+            <footer class=" text-center text-lg-start text-white">
+                <!-- Grid container -->
+                <div class="container pt-4">
+                    <!--Grid row-->
+                    <div class="row">
+                        <!--Grid column-->
+                        <div class="col-lg-5 col-md-6 mb-4 mb-md-0">
+
+                            <div>
+                                <img src="./Assets/Logos/UB Logo High RES.png" alt="UB-logo" loading="lazy"
+                                    height="200" />
+                            </div>
+
+                            <!-- <p class="text-center">Homless animal shelter The budgetary unit of the Capital City of
+                                Warsaw</p> -->
+
+                        </div>
+
+                        <!--Grid column-->
+                        <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                            <h5 class="text-uppercase mb-4">Sitemap</h5>
+
+                            <ul class="list-unstyled">
+                                <li class="mb-2">
+                                    <a href="index.html" class="text-white"><i class="fas fa-paw pe-3"></i>Home</a>
+                                </li>
+                                <li class="mb-2">
+                                    <a href="#!" class="text-white"><i class="fas fa-paw pe-3"></i>Interns</a>
+                                </li>
+                                <li class="mb-2">
+                                    <a href="#!" class="text-white"><i class="fas fa-paw pe-3"></i>Presentation
+                                        Agenda</a>
+                                </li>
+                                <li class="mb-2">
+                                    <a href="#!" class="text-white"><i class="fas fa-paw pe-3"></i>Hosts
+                                        Organizations</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <!--Grid column-->
+                        <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+                            <h5 class="text-uppercase mb-4">Contact</h5>
+
+                            <ul class="list-unstyled">
+                                <li>
+                                    <p><i class="fas fa-map-marker-alt pe-2"></i>Hummingbird Avenue City of Belmopan,
+                                        Cayo</p>
+                                </li>
+                                <li>
+                                    <p><i class="fas fa-phone pe-2"></i>(501) 822-1000/822-3680​</p>
+                                </li>
+                                <li>
+                                    <p><i class="fas fa-envelope pe-2 mb-0"></i>admissions@ub.edu.bz</p>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <!--Grid column-->
+
+                    </div>
+
+                </div>
+                <!-- Grid container -->
+
+                <!-- Copyright -->
+                <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
+                    © 2024 Copyright: Univeristy of Belize | George Kotch & Moises Martinez
+                </div>
+                <!-- Copyright -->
+            </footer>
+        </section>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+            crossorigin="anonymous"></script>
+    </body>
+</html>
