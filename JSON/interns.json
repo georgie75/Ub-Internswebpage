@@ -1,426 +1,428 @@
 {
-    "associatesInterns": [
-        {
-          "image": "InternPics-A/GolbyYoung.jpg",
-          "name": "Golby Young",
-          "organization": "Invictus BPO",
-          "position": "Junior Technician",
-          "resumeLink": "https://drive.google.com/file/d/1mDqBA279hBE5WcRDYh-a852agIbRk5TG/view?usp=drive_link",
-          "time": "8:00 AM - 8:15 AM",
-          "description": "As a Junior Technician at Invictus BPO, I performed various technical duties, including computer repair, software and hardware troubleshooting, and installing new devices on the company's network. My responsibilities included diagnosing and resolving issues, maintaining productivity, and ensuring proper integration into existing systems. My expertise in network configurations was crucial for a smooth operation. "      
-        },
-        {
-          "image": "InternPics-A/CahlilTillett.jpeg",
-          "name": "Cahlil Tillett",
-          "organization": "University of Belize, Engineering Department",
-          "position": "Web Developer",
-          "resumeLink": "https://drive.google.com/file/d/1eT6DnSiEgKzsb1gN10RKJ6pJqC8t6LkW/view?usp=sharing",
-          "time": "8:15 AM - 8:30 AM",
-          "description": "As a web developer for the Engineering Department, I designed an informative website using WordPress to showcase the department's projects and achievements. The site was interactive and informative, featuring custom themes, plugin integration, and content reflecting the department's innovative and technical expertise. "     
-        },
-        {
-          "image": "InternPics-A/Donavan.jpg",
-          "name": "Donovan Yam",
-          "organization": "A+ Computer solutions",
-          "position": "Junior Technician",
-          "resumeLink": "https://drive.google.com/file/d/1sRLd8VZcf5uRNyoA9DCphNyWDFgiaZm7/view?usp=drive_link",
-          "time": "8:30 AM - 8:45 AM",
-          "description": "During my internship at A+ Computer Solutions, I assisted in installing surveillance cameras, contributed to web design of a Point of Sale system, and worked on network and hardware tasks. This hands-on experience was crucial for my professional development in computer technology, involving troubleshooting and upgrading systems. "     
-        },
-        {
-          "image": "InternPics-A/BryanHernandez.jpg",
-          "name": "Bryan Hernandez",
-          "organization": "Sarabia Innovative Consultancy",
-          "position": "Web Developer",
-          "resumeLink": "https://drive.google.com/file/d/18haiz9nlCj1N5KRidqyMENdorMtR-QfU/view?usp=drive_link",
-          "time": "8:45 AM - 9:00 AM",
-          "description": "As an intern, I focused on designing and developing client websites using Figma and Webflow. I created high-fidelity prototypes and responsive websites, focusing on front-end and UI design projects. My goal was to create intuitive, aesthetically pleasing user interfaces, utilizing user experience principles and a keen eye for detail to ensure functionality and visual appeal. "      
-         },
-        {
-          "image": "InternPics-A/EldadDanladi.jpg",
-          "name": "Eldad Danladi",
-          "organization": "Belmopan City Council",
-          "position": "Junior Technician",
-          "resumeLink": "https://drive.google.com/file/d/1qMTimkMOJMLYbFHLa1hbKRLUpgNrcpT6/view?usp=sharing",
-          "time": "9:00 AM - 9:15 AM",
-          "description": "As a junior technician at Belmopan City Council, I performed various technical support tasks, including regular maintenance of systems across departments, software checks and updates, and providing comprehensive support to staff members. These tasks ensured optimal performance and reliability, preventing potential disruptions in council operations. I also ensured that all systems were up-to-date with the latest security patches and features. This role also involved addressing technical queries and resolving any issues encountered. "    
-        },
-        {
-          "image": "InternPics-A/RosadoLeonidez.jpg",
-          "name": "Leonidez Rosado",
-          "organization": "Victorious Nazarene School",
-          "position": "Systems Developer",
-          "resumeLink": "https://drive.google.com/file/d/1iUWsk3-HlQpU_V3Qnp9FyNK_lBPuCzxl/view?usp=sharing",
-          "time": "9:15 AM - 9:30 AM",
-          "description": "As a Junior Systems developer at Victorious Nazarene School, I developed a Billing and Notification system for the Principal, enabling the Principal to manage student payments and notify parents of outstanding balances using the low code development tool Apex Oracle. "   
-        },
-        {
-          "image": "InternPics-A/MartinUyi.jpeg",
-          "name": "Martin Uyi",
-          "organization": "Transparent BPO",
-          "position": "Junior IT Technician",
-          "resumeLink": "https://drive.google.com/file/d/1eqiE2aPRvmsOxdS9zdPWzm-kBImXQOSE/view?usp=sharing",
-          "time": "9:30 AM - 9:45 AM",
-          "description": "As a Junior IT Technician at Transparent BPO, I am responsible for troubleshooting, repairs, and maintenance of PCs. I also install computer hardware and software, crimp ethernet wires, set up and connect workstations to network and xc respond to support tickets.  Software/tools: DaloRadius, AD Manager, Krisp, AxTraxNG, Cisco AnyConnect, HelpDesk. "       
-        },
-        {
-          "image": "InternPics-A/KelseyAban.jpg",
-          "name": "Kelsey Aban",
-          "organization": "University of Belize, Research Office",
-          "position": "Web Developer",
-          "resumeLink": "https://drive.google.com/file/d/1GPG75THdv2rtVjZg452j-NKWVtxF4I1j/view?usp=sharing",
-          "time": "9:45 AM - 10:00 AM",
-          "description": "During my internship at the University of Belize's Research Office, I revamped the existing website and created a new one for the Bi-National Belize-Mexico Annual Seminar using WordPress. I enhanced functionality and design to better serve the seminar's objectives, and collaborated with the Research Office Clerk to design engaging promotional materials. "        
-        },
-        {
-          "image": "InternPics-A/ImmanuelGarcia.png",
-          "name": "Immanuel Garcia",
-          "organization": "SSB",
-          "position": "Temp Programmer",
-          "resumeLink": "https://drive.google.com/file/d/1qR1MV-grWTrwvUdWw_Sg78KE0BQkHja-/view?usp=sharing",
-          "time": "10:00 AM - 10:15 AM",
-          "description": "As an intern at the Social Security Board, I provided valuable feedback, collaborated on tasks, and participated in code reviews. My commitment to best practices and timely completion of tasks contributed to the team's efficiency. My main focus was updating the Student Scholarship Management Portal's codebase for optimal performance and security. This internship allowed me to apply my skills in a practical setting, contributing to the team's success. "
-        },
-        {
-          "image": "InternPics-A/Julius Rio Shol Pic.jpeg",
-          "name": "Julius Shol",
-          "organization": "Central TV & Internet",
-          "position": "Headend Technician",
-          "resumeLink": "https://drive.google.com/file/d/1YYrrJqYtjjOBDcbWO6ecl3tvSzxQ00Z8/view?usp=drivesdk",
-          "time": "10:15 AM - 10:30 AM",
-          "description": "As an intern, I assisted headend technicians in conducting channel scans, troubleshooting channels, uploading live events, and understanding Internet and cable company access to channels. I also assisted the headend system administrator in creating a video wall system and working with switches, installing operating systems, and learning remote access. This experience honed my skills in managing channels and ensuring a smooth system operation. "
-        },
-        {
-          "image": "InternPics-A/ErnestWade.JPG",
-          "name": "Ernest Wade",
-          "organization": "CITO",
-          "position": "Network Technician",
-          "resumeLink": "https://drive.google.com/file/d/1XH6q5X5-HNBCdG_Y40Ki75UgZdydPtsP/view?usp=drive_link",
-          "time": "10:30 AM - 10:45 AM",
-          "description": "As a network technician intern at CITO, I provided comprehensive assistance to users with networking-related issues, diagnosing and resolving problems, and guiding them through troubleshooting steps. I also participated in a major project to upgrade the network infrastructure for the Ministry of Education, planning and executing the upgrade to accommodate office demands and minimize downtime and disruption. "
-        },
-        {
-          "image": "InternPics-A/MaylinChee.JPG",
-          "name": "Maylin Chee",
-          "organization": "Eden SDA High School",
-          "position": "Web Developer",
-          "resumeLink": "https://drive.google.com/file/d/1NbU4HG2_FNEGqK19Zsoiju4Srzhb6R-_/view?usp=sharing",
-          "time": "10:45 AM - 11:00 AM",
-          "description": "The internship at Eden High School involved redesigning the website's front-end to improve its visual appeal, attract future applicants, and engage current students. The goal was to make all necessary information easily accessible, ensuring the website served as a comprehensive resource for all users, balancing aesthetics and functionality. "
-        },
-        {
-          "image": "InternPics-A/AddieVasquez.jpg",
-          "name": "Addie Vasquez",
-          "organization": "Ministry of Education, Culture, Science and Technology",
-          "position": "Software Developer",
-          "resumeLink": "https://drive.google.com/file/d/1tzXdB2MiAfpoJATdBSWXHnLtSVVvfx_J/view?usp=drive_link",
-          "time": "11:00 AM - 11:15 AM",
-          "description": "As a junior software developer, I was involved in the creation of a web application designed to facilitate the recognition of trainers by the ministry. Utilizing the Ruby on Rails framework, I developed the core functionalities of the app. I employed HTML and CSS to design the user interface, ensuring that the pages were both aesthetically pleasing and user-friendly. "
-        },
-        {
-          "image": "InternPics-A/ChahiimPop.jpg",
-          "name": "Chahiim Pop",
-          "organization": "Belize Government Lotteries Ltd.",
-          "position": "Web App Developer",
-          "resumeLink": "https://drive.google.com/file/d/1-qo0nMJx48uDHGb6MwKwPoXG-r5NuhhS/view?usp=sharing",
-          "time": "11:15 AM - 11:30 AM",
-          "description": "During my time at Belize Government Lotteries, I served as a web app developer, primarily focusing on constructing a Firebase-backed web application for daily updates of BGLL. Throughout this role, I honed my skills in Angular, TypeScript, HTML, JavaScript, and Firebase. Notably, I gained proficiency in utilizing Angular and TypeScript while also mastering various Firebase services. "
-        },
-        {
-          "image": "InternPics-A/Zyon Morter.jpg",
-          "name": "Zyon Morter",
-          "organization": "Financial Service Commission",
-          "position": "Network Assistant",
-          "resumeLink": "https://drive.google.com/file/d/1DlvGDkSKRX3VXlzvo--2lv3Df_w9VSkA/view?usp=sharing",
-          "time": "11:30 AM - 11:45 AM",
-          "description": "As a network assistant, I manage patch panels and label cables using tools like the Rhino 3000+. I use the Noyafa NF-858C to locate cables and add crimped patch cables. I also troubleshoot issues with printers, scanners, and computers, and assist in asset management for an ICT Infrastructure team. The process involves cutting the appropriate length, terminating them to RJ45 connectors, and punching down the cables securely onto the patch panels. "
-        },
-        {
-          
-          "time": "11:45 AM - 1:00 PM",
-          "description": "Lunch Break"
-        },
-        {
-          "image": "InternPics-A/PedroKukul.jpg",
-          "name": "Pedro Kukul",
-          "organization": "University of Belize ICT",
-          "position": "Mobile App Developer",
-          "resumeLink": "https://drive.google.com/file/d/1WONs2M9ue2dYPdSxHgdVg7dFCs6veIWB/view?usp=sharing",
-          "time": "1:00 PM - 1:15 PM",
-          "description": "During my internship at the University of Belize, I developed a mobile application using TypeScript and Expo CLI. I transitioned to using Redux toolkit for enhanced state management, enhancing my technical skills and understanding of development team dynamics. This experience honed my understanding of mobile development and collaborative workflows. "       
-        },
-        {
-          "image": "InternPics-A/DAlesseoRequena.jpg",
-          "name": "D'Alesseo Requena",
-          "organization": "Geek Army",
-          "position": "Junior IT Technician",
-          "resumeLink": "https://drive.google.com/file/d/1GqFuX560hrqxT77Yp6GX4hQOb6jwVib6/view?usp=sharing",
-          "time": "1:15 PM - 1:30 PM",
-          "description": "As a Junior IT Technician at Geek Army, I handled a variety of machines, ensuring their functionality and reliability. I diagnosed and repaired equipment, requiring a deep understanding of hardware systems. I researched and implemented solutions, staying updated with technological advancements, to improve service quality. I also provided detailed solutions to customers, enhancing customer satisfaction and Geek Army's reputation as a leader in technical support and services. "       
-        },
-        {
-          "image": "InternPics-A/AmanieAllen.jpg",
-          "name": "Amanie Allen",
-          "organization": "Belize Tourism Board",
-          "position": "Web Developer",
-          "resumeLink": "https://drive.google.com/file/d/1Xa1Icr_AlHnvq0xKd7RGbjd2Zc3dJDTh/view?usp=drive_link",
-          "time": "1:30 PM - 1:45 PM",
-          "description": "During my internship at the Belize Tourism Board, I revamped the organization's online portal, focusing on visual appeal and functionality. My methodical approach was user-centric, creating an intuitive and engaging platform. Utilizing my skills in HTML, CSS, JavaScript, jQuery, and MySQL database administration, I created a modern layout with accessible and aesthetically pleasing content. My goal was to prioritize usability, accessibility, and user engagement. "       
-        },
-        {
-          "image": "InternPics-A/Reneil Coleman Photo.jpg",
-          "name": "Reneil Coleman",
-          "organization": "The Office Gurus Belmopan",
-          "position": "IT Technician",
-          "resumeLink": "https://drive.google.com/file/d/1vYQoplNM4WXcpFEgULp34HANxvaioGPP/view?usp=drive_link",
-          "time": "1:45 PM - 2:00 PM",
-          "description": "During my internship at The Office Gurus, I provided hardware and software troubleshooting support, conducted weekly inventory checks, and performed daily CPU maintenance to ensure optimal performance for newly built CPUs. I also crimped cables and installed software for various campaigns, ensuring seamless call-taking for agents and keeping the company informed about available items and potential purchases. "       
-        },
-        {
-          "image": "InternPics-A/Kelvin Gordon.jpeg",
-          "name": "Kelvin Gordon",
-          "organization": "Belize Forest Department",
-          "position": "Web Developer",
-          "resumeLink": "https://drive.google.com/file/d/1uA_Ik4-xZDPiF6hep1UTRfAnc2NEhemg/view?usp=drive_link",
-          "time": "2:00 PM - 2:15 PM",
-          "description": "As a junior web developer for the Forest Department of Belize, I developed a comprehensive web guide using HTML, CSS, JavaScript, and Markdown files. I created visually appealing and user-friendly web pages using HTML, styled them with CSS for interactivity, and incorporated JavaScript for dynamic content. Markdown was used to create easy-to-read and write documentation, providing clear instructions and information within the guide. Overall, my internship was a successful collaboration with the Forest Department."       
-        },
-        {
-          "image": "InternPics-A/AmilcarPicture.png",
-          "name": "Amilcar Vasquez",
-          "organization": "AgriPrec",
-          "position": "Web Developer",
-          "resumeLink": "https://docs.google.com/document/d/18kWbR8m92bNDA0txfaSS2uB0aRmKM9YWCYc8N1QU5IY/edit?usp=sharing",
-          "time": "2:15 PM - 2:30 PM",
-          "description": "As an intern at AgriPrec, I worked as a web developer, redesigning a website using WordPress and a Builder. I also implemented SEO strategies to improve the website's ranking in search results and set up Google Analytics to track website traffic and user behavior. "       
-        },
-        {
-          "image": "InternPics-A/MickaliGarbutt.jpeg",
-          "name": "Mickali Garbutt",
-          "organization": "Edward P. Yorke High School",
-          "position": "Web Developer",
-          "resumeLink": "https://drive.google.com/file/d/19oATBZN5lurhsjjGHA3zzJFsjF338ZwW/view?usp=sharing",
-          "time": "2:30 PM - 2:45 PM",
-          "description": "The primary goal of designing a website for Edward P. York was to provide the general public with accurate and comprehensive information. Utilizing Figma for initial design, a user-friendly interface, visually appealing layout, HTML, CSS, and Javascript, the website was designed to be visually appealing and functional. "       
-        },
-        {
-          "image": "InternPics-A/EnriqueGarcia.jpeg",
-          "name": "Enrique Garcia",
-          "organization": "University of Belize Statistics Department",
-          "position": "Web Developer",
-          "resumeLink": "https://drive.google.com/file/d/1Mxx8gNu1Q0uLXtNcHYI-whALW2Ns6MV_/view?usp=sharing",
-          "time": "2:45 PM - 3:00 PM",
-          "description": "The role that was given to me is to develop a webpage for the statistics department that will showcase information about the course and other materials related to it. I am using wordpress and information given to me by the department. "       
-        },
-        {
-          "image": "InternPics-A/aiyeshaColemanImage.jpg",
-          "name": "Aiyesha Coleman",
-          "organization": "Ministry of Immigration",
-          "position": "Technical Writer",
-          "resumeLink": "https://drive.google.com/file/d/1blYXPnSeuMmA-D_Q-jBosPc-vodZITjK/view?usp=sharing",
-          "time": "3:00 PM - 3:15 PM",
-          "description": "During my internship at the Ministry of Immigration, I documented the Immigration Information System and updated its user manual to ensure current instructions and guidelines. This involved expanding flow diagrams to provide a clearer representation of the system's processes for staff better understanding and usage. "       
-        },
-        {
-          "image": "InternPics-A/LeePanti.jpg",
-          "name": "Lee Edbert Panti",
-          "organization": "ThinkTech Ltd.",
-          "position": "Web Developer",
-          "resumeLink": "https://drive.google.com/file/d/1RvXZ5dJzY68lkoJ_8Aq_o_Of5J7onAIB/view?usp=drive_link",
-          "time": "3:15 PM - 3:30 PM",
-          "description": "As a Junior Web Developer at ThinkTech Ltd, I developed a Job Portal web application using the NextJS framework, a MySQL database for efficient job listing and user data management, and integrated Next-Auth for a secure, scalable role-based authentication system. "       
-        },
-        {
-          "image": "InternPics-A/CeliaHenriquez.jpg",
-          "name": "Celia Henriquez",
-          "organization": "Caribbean Climate Change Center",
-          "position": "Network Assistant",
-          "resumeLink": "https://drive.google.com/file/d/1rBUtv0YTL-gXpRmRgZn8z4TZeR6OsEKE/view?usp=sharing",
-          "time": "3:30 PM - 3:45 PM",
-          "description": "The individual worked on various projects at the Caribbean Community Climate Change Center, including network printer reconfiguration, new network access points, and server reconfiguration. They gained experience in IP address management, cable creation, user equipment setup, and server documentation, as well as configuring network access points and printers."       
-        },
-        {
-          "image": "InternPics-A/Jordani Alpuche 2.jpg",
-          "name": "Jordani Alpuche",
-          "organization": "SIB",
-          "position": "Junior Developer",
-          "resumeLink": "https://drive.google.com/file/d/1qUM8bIfJCn0KnzIVCIRioqqPyfIcm0fX/view?usp=drive_link",
-          "time": "3:45 PM - 4:00 PM",
-          "description": "During my internship at the Statistical Institute of Belize, I created a dashboard for the MICS7 Survey. I used Oracle Apex for application development, writing JavaScript scripts to enhance interactivity and responsiveness. I also integrated a Python API for seamless data exchange and backend functionality. This experience sharpened my technical skills and provided me with valuable insights into the practical applications of software development in data analysis and presentation. The dashboard effectively processed and displayed complex survey data. "       
-        },
-        {
-          "image": "InternPics-A/AidenPinelo.jpg",
-          "name": "Aiden Pinelo",
-          "organization": "Institutional Advancement Office",
-          "position": "Web Developer",
-          "resumeLink": "https://drive.google.com/file/d/1-5UoXz36RTNBg43p3YxSFdatPL4zoc5H/view?usp=sharing",
-          "time": "4:00 PM - 4:15 PM",
-          "description": "As an intern web developer at the Institutional Advancement Office, my primary duty was to design and develop a landing page that serves as a comprehensive information hub about the office and the University of Belize (UB). This page is designed to inform and facilitate interaction with stakeholders and prospective partners."       
-        },
-        {
-          "image": "InternPics-A/DarwyneAzueta.jpeg",
-          "name": "Darwyne Azueta",
-          "organization": "Fort George hotel and spa",
-          "position": "IT Technician",
-          "resumeLink": "https://drive.google.com/file/d/1Tr56kYxzndgOnd8h6HZSada9qKBFy7_D/view?usp=drive_link",
-          "time": "4:15 PM - 4:30 PM",
-          "description": "As an IT technician at Fort George, I handled daily hardware and software system troubleshooting and was involved in the hotel's renovation project, setting up new TVs, phones, access points, and network cabling. I played a crucial role in networking and systems administration, ensuring seamless integration and functionality within the hotel's technological framework. "       
-        },
-        {
-          "image": "InternPics-A/NathanHislop.jpg",
-          "name": "Nathan Hislop",
-          "organization": "Belize City Council",
-          "position": "Junior Technician",
-          "resumeLink": "https://drive.google.com/file/d/1WtdmC-bhSVlqTg54dXGgBYzu9v_1UwiG/view?usp=sharing",
-          "time": "4:30 PM - 4:45 PM",
-          "description": "As a Junior Technician at Belize City Council,  I was responsible for the installation and repair of cameras across various departments. My duties also encompassed printer maintenance, which involved troubleshooting issues and replacing ink cartridges. Furthermore, I provided computer troubleshooting and repair services, ensuring that all technological equipment functioned efficiently and effectively around the council. "       
-        }
-        
+  "associatesInterns": [
+    {
+      "image": "./Assets/InternPics-A/GolbyYoung.jpg",
+      "name": "Golby Young",
+      "organization": "Invictus BPO",
+      "position": "Junior Technician",
+      "resumeLink": "https://drive.google.com/file/d/1mDqBA279hBE5WcRDYh-a852agIbRk5TG/view?usp=drive_link",
+      "time": "8:00 AM - 8:15 AM",
+      "description": "As a Junior Technician at Invictus BPO, I performed various technical duties, including computer repair, software and hardware troubleshooting, and installing new devices on the company's network. My responsibilities included diagnosing and resolving issues, maintaining productivity, and ensuring proper integration into existing systems. My expertise in network configurations was crucial for a smooth operation. "
+    },
+    {
+      "image": "./Assets/InternPics-A/CahlilTillett.jpeg",
+      "name": "Cahlil Tillett",
+      "organization": "University of Belize, Engineering Department",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/1eT6DnSiEgKzsb1gN10RKJ6pJqC8t6LkW/view?usp=sharing",
+      "time": "8:15 AM - 8:30 AM",
+      "description": "As a web developer for the Engineering Department, I designed an informative website using WordPress to showcase the department's projects and achievements. The site was interactive and informative, featuring custom themes, plugin integration, and content reflecting the department's innovative and technical expertise. "
+    },
+    {
+      "image": "./Assets/InternPics-A/Donavan.jpg",
+      "name": "Donovan Yam",
+      "organization": "A+ Computer solutions",
+      "position": "Junior Technician",
+      "resumeLink": "https://drive.google.com/file/d/1sRLd8VZcf5uRNyoA9DCphNyWDFgiaZm7/view?usp=drive_link",
+      "time": "8:30 AM - 8:45 AM",
+      "description": "During my internship at A+ Computer Solutions, I assisted in installing surveillance cameras, contributed to web design of a Point of Sale system, and worked on network and hardware tasks. This hands-on experience was crucial for my professional development in computer technology, involving troubleshooting and upgrading systems. "
+    },
+    {
+      "image": "./Assets/InternPics-A/BryanHernandez.jpg",
+      "name": "Bryan Hernandez",
+      "organization": "Sarabia Innovative Consultancy",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/18haiz9nlCj1N5KRidqyMENdorMtR-QfU/view?usp=drive_link",
+      "time": "8:45 AM - 9:00 AM",
+      "description": "As an intern, I focused on designing and developing client websites using Figma and Webflow. I created high-fidelity prototypes and responsive websites, focusing on front-end and UI design projects. My goal was to create intuitive, aesthetically pleasing user interfaces, utilizing user experience principles and a keen eye for detail to ensure functionality and visual appeal. "
+    },
+    {
+      "image": "./Assets/InternPics-A/EldadDanladi.jpg",
+      "name": "Eldad Danladi",
+      "organization": "Belmopan City Council",
+      "position": "Junior Technician",
+      "resumeLink": "https://drive.google.com/file/d/1qMTimkMOJMLYbFHLa1hbKRLUpgNrcpT6/view?usp=sharing",
+      "time": "9:00 AM - 9:15 AM",
+      "description": "As a junior technician at Belmopan City Council, I performed various technical support tasks, including regular maintenance of systems across departments, software checks and updates, and providing comprehensive support to staff members. These tasks ensured optimal performance and reliability, preventing potential disruptions in council operations. I also ensured that all systems were up-to-date with the latest security patches and features. This role also involved addressing technical queries and resolving any issues encountered. "
+    },
+    {
+      "image": "./Assets/InternPics-A/RosadoLeonidez.jpg",
+      "name": "Leonidez Rosado",
+      "organization": "Victorious Nazarene School",
+      "position": "Systems Developer",
+      "resumeLink": "https://drive.google.com/file/d/1iUWsk3-HlQpU_V3Qnp9FyNK_lBPuCzxl/view?usp=sharing",
+      "time": "9:15 AM - 9:30 AM",
+      "description": "As a Junior Systems developer at Victorious Nazarene School, I developed a Billing and Notification system for the Principal, enabling the Principal to manage student payments and notify parents of outstanding balances using the low code development tool Apex Oracle. "
+    },
+    {
+      "image": "./Assets/InternPics-A/MartinUyi.jpeg",
+      "name": "Martin Uyi",
+      "organization": "Transparent BPO",
+      "position": "Junior IT Technician",
+      "resumeLink": "https://drive.google.com/file/d/1eqiE2aPRvmsOxdS9zdPWzm-kBImXQOSE/view?usp=sharing",
+      "time": "9:30 AM - 9:45 AM",
+      "description": "As a Junior IT Technician at Transparent BPO, I am responsible for troubleshooting, repairs, and maintenance of PCs. I also install computer hardware and software, crimp ethernet wires, set up and connect workstations to network and xc respond to support tickets.  Software/tools: DaloRadius, AD Manager, Krisp, AxTraxNG, Cisco AnyConnect, HelpDesk. "
+    },
+    {
+      "image": "./Assets/InternPics-A/KelseyAban.jpg",
+      "name": "Kelsey Aban",
+      "organization": "University of Belize, Research Office",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/1GPG75THdv2rtVjZg452j-NKWVtxF4I1j/view?usp=sharing",
+      "time": "9:45 AM - 10:00 AM",
+      "description": "During my internship at the University of Belize's Research Office, I revamped the existing website and created a new one for the Bi-National Belize-Mexico Annual Seminar using WordPress. I enhanced functionality and design to better serve the seminar's objectives, and collaborated with the Research Office Clerk to design engaging promotional materials. "
+    },
+    {
+      "image": "./Assets/InternPics-A/ImmanuelGarcia.png",
+      "name": "Immanuel Garcia",
+      "organization": "SSB",
+      "position": "Temp Programmer",
+      "resumeLink": "https://drive.google.com/file/d/1qR1MV-grWTrwvUdWw_Sg78KE0BQkHja-/view?usp=sharing",
+      "time": "10:00 AM - 10:15 AM",
+      "description": "As an intern at the Social Security Board, I provided valuable feedback, collaborated on tasks, and participated in code reviews. My commitment to best practices and timely completion of tasks contributed to the team's efficiency. My main focus was updating the Student Scholarship Management Portal's codebase for optimal performance and security. This internship allowed me to apply my skills in a practical setting, contributing to the team's success. "
+    },
+    {
+      "image": "./Assets/InternPics-A/Julius Rio Shol Pic.jpeg",
+      "name": "Julius Shol",
+      "organization": "Central TV & Internet",
+      "position": "Headend Technician",
+      "resumeLink": "https://drive.google.com/file/d/1YYrrJqYtjjOBDcbWO6ecl3tvSzxQ00Z8/view?usp=drivesdk",
+      "time": "10:15 AM - 10:30 AM",
+      "description": "As an intern, I assisted headend technicians in conducting channel scans, troubleshooting channels, uploading live events, and understanding Internet and cable company access to channels. I also assisted the headend system administrator in creating a video wall system and working with switches, installing operating systems, and learning remote access. This experience honed my skills in managing channels and ensuring a smooth system operation. "
+    },
+    {
+      "image": "./Assets/InternPics-A/ErnestWade.JPG",
+      "name": "Ernest Wade",
+      "organization": "CITO",
+      "position": "Network Technician",
+      "resumeLink": "https://drive.google.com/file/d/1XH6q5X5-HNBCdG_Y40Ki75UgZdydPtsP/view?usp=drive_link",
+      "time": "10:30 AM - 10:45 AM",
+      "description": "As a network technician intern at CITO, I provided comprehensive assistance to users with networking-related issues, diagnosing and resolving problems, and guiding them through troubleshooting steps. I also participated in a major project to upgrade the network infrastructure for the Ministry of Education, planning and executing the upgrade to accommodate office demands and minimize downtime and disruption. "
+    },
+    {
+      "image": "./Assets/InternPics-A/MaylinChee.JPG",
+      "name": "Maylin Chee",
+      "organization": "Eden SDA High School",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/1NbU4HG2_FNEGqK19Zsoiju4Srzhb6R-_/view?usp=sharing",
+      "time": "10:45 AM - 11:00 AM",
+      "description": "The internship at Eden High School involved redesigning the website's front-end to improve its visual appeal, attract future applicants, and engage current students. The goal was to make all necessary information easily accessible, ensuring the website served as a comprehensive resource for all users, balancing aesthetics and functionality. "
+    },
+    {
+      "image": "./Assets/InternPics-A/AddieVasquez.jpg",
+      "name": "Addie Vasquez",
+      "organization": "Ministry of Education, Culture, Science and Technology",
+      "position": "Software Developer",
+      "resumeLink": "https://drive.google.com/file/d/1tzXdB2MiAfpoJATdBSWXHnLtSVVvfx_J/view?usp=drive_link",
+      "time": "11:00 AM - 11:15 AM",
+      "description": "As a junior software developer, I was involved in the creation of a web application designed to facilitate the recognition of trainers by the ministry. Utilizing the Ruby on Rails framework, I developed the core functionalities of the app. I employed HTML and CSS to design the user interface, ensuring that the pages were both aesthetically pleasing and user-friendly. "
+    },
+    {
+      "image": "./Assets/InternPics-A/ChahiimPop.jpg",
+      "name": "Chahiim Pop",
+      "organization": "Belize Government Lotteries Ltd.",
+      "position": "Web App Developer",
+      "resumeLink": "https://drive.google.com/file/d/1-qo0nMJx48uDHGb6MwKwPoXG-r5NuhhS/view?usp=sharing",
+      "time": "11:15 AM - 11:30 AM",
+      "description": "During my time at Belize Government Lotteries, I served as a web app developer, primarily focusing on constructing a Firebase-backed web application for daily updates of BGLL. Throughout this role, I honed my skills in Angular, TypeScript, HTML, JavaScript, and Firebase. Notably, I gained proficiency in utilizing Angular and TypeScript while also mastering various Firebase services. "
+    },
+    {
+      "image": "./Assets/InternPics-A/Zyon Morter.jpg",
+      "name": "Zyon Morter",
+      "organization": "Financial Service Commission",
+      "position": "Network Assistant",
+      "resumeLink": "https://drive.google.com/file/d/1DlvGDkSKRX3VXlzvo--2lv3Df_w9VSkA/view?usp=sharing",
+      "time": "11:30 AM - 11:45 AM",
+      "description": "As a network assistant, I manage patch panels and label cables using tools like the Rhino 3000+. I use the Noyafa NF-858C to locate cables and add crimped patch cables. I also troubleshoot issues with printers, scanners, and computers, and assist in asset management for an ICT Infrastructure team. The process involves cutting the appropriate length, terminating them to RJ45 connectors, and punching down the cables securely onto the patch panels. "
+    },
+    {
+      "name": "Lunch Break",
+      "organization": "",
+      "position": "",
+      "time": "11:45 AM - 1:00 PM",
+      "description": "Lunch Break"
+    },
+    {
+      "image": "./Assets/InternPics-A/PedroKukul.jpg",
+      "name": "Pedro Kukul",
+      "organization": "University of Belize ICT",
+      "position": "Mobile App Developer",
+      "resumeLink": "https://drive.google.com/file/d/1WONs2M9ue2dYPdSxHgdVg7dFCs6veIWB/view?usp=sharing",
+      "time": "1:00 PM - 1:15 PM",
+      "description": "During my internship at the University of Belize, I developed a mobile application using TypeScript and Expo CLI. I transitioned to using Redux toolkit for enhanced state management, enhancing my technical skills and understanding of development team dynamics. This experience honed my understanding of mobile development and collaborative workflows. "
+    },
+    {
+      "image": "./Assets/InternPics-A/DAlesseoRequena.jpg",
+      "name": "D'Alesseo Requena",
+      "organization": "Geek Army",
+      "position": "Junior IT Technician",
+      "resumeLink": "https://drive.google.com/file/d/1GqFuX560hrqxT77Yp6GX4hQOb6jwVib6/view?usp=sharing",
+      "time": "1:15 PM - 1:30 PM",
+      "description": "As a Junior IT Technician at Geek Army, I handled a variety of machines, ensuring their functionality and reliability. I diagnosed and repaired equipment, requiring a deep understanding of hardware systems. I researched and implemented solutions, staying updated with technological advancements, to improve service quality. I also provided detailed solutions to customers, enhancing customer satisfaction and Geek Army's reputation as a leader in technical support and services. "
+    },
+    {
+      "image": "./Assets/InternPics-A/AmanieAllen.jpg",
+      "name": "Amanie Allen",
+      "organization": "Belize Tourism Board",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/1Xa1Icr_AlHnvq0xKd7RGbjd2Zc3dJDTh/view?usp=drive_link",
+      "time": "1:30 PM - 1:45 PM",
+      "description": "During my internship at the Belize Tourism Board, I revamped the organization's online portal, focusing on visual appeal and functionality. My methodical approach was user-centric, creating an intuitive and engaging platform. Utilizing my skills in HTML, CSS, JavaScript, jQuery, and MySQL database administration, I created a modern layout with accessible and aesthetically pleasing content. My goal was to prioritize usability, accessibility, and user engagement. "
+    },
+    {
+      "image": "./Assets/InternPics-A/Reneil Coleman Photo.jpg",
+      "name": "Reneil Coleman",
+      "organization": "The Office Gurus Belmopan",
+      "position": "IT Technician",
+      "resumeLink": "https://drive.google.com/file/d/1vYQoplNM4WXcpFEgULp34HANxvaioGPP/view?usp=drive_link",
+      "time": "1:45 PM - 2:00 PM",
+      "description": "During my internship at The Office Gurus, I provided hardware and software troubleshooting support, conducted weekly inventory checks, and performed daily CPU maintenance to ensure optimal performance for newly built CPUs. I also crimped cables and installed software for various campaigns, ensuring seamless call-taking for agents and keeping the company informed about available items and potential purchases. "
+    },
+    {
+      "image": "./Assets/InternPics-A/Kelvin Gordon.jpeg",
+      "name": "Kelvin Gordon",
+      "organization": "Belize Forest Department",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/1uA_Ik4-xZDPiF6hep1UTRfAnc2NEhemg/view?usp=drive_link",
+      "time": "2:00 PM - 2:15 PM",
+      "description": "As a junior web developer for the Forest Department of Belize, I developed a comprehensive web guide using HTML, CSS, JavaScript, and Markdown files. I created visually appealing and user-friendly web pages using HTML, styled them with CSS for interactivity, and incorporated JavaScript for dynamic content. Markdown was used to create easy-to-read and write documentation, providing clear instructions and information within the guide. Overall, my internship was a successful collaboration with the Forest Department."
+    },
+    {
+      "image": "./Assets/InternPics-A/AmilcarPicture.png",
+      "name": "Amilcar Vasquez",
+      "organization": "AgriPrec",
+      "position": "Web Developer",
+      "resumeLink": "https://docs.google.com/document/d/18kWbR8m92bNDA0txfaSS2uB0aRmKM9YWCYc8N1QU5IY/edit?usp=sharing",
+      "time": "2:15 PM - 2:30 PM",
+      "description": "As an intern at AgriPrec, I worked as a web developer, redesigning a website using WordPress and a Builder. I also implemented SEO strategies to improve the website's ranking in search results and set up Google Analytics to track website traffic and user behavior. "
+    },
+    {
+      "image": "./Assets/InternPics-A/MickaliGarbutt.jpeg",
+      "name": "Mickali Garbutt",
+      "organization": "Edward P. Yorke High School",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/19oATBZN5lurhsjjGHA3zzJFsjF338ZwW/view?usp=sharing",
+      "time": "2:30 PM - 2:45 PM",
+      "description": "The primary goal of designing a website for Edward P. York was to provide the general public with accurate and comprehensive information. Utilizing Figma for initial design, a user-friendly interface, visually appealing layout, HTML, CSS, and Javascript, the website was designed to be visually appealing and functional. "
+    },
+    {
+      "image": "./Assets/InternPics-A/EnriqueGarcia.jpeg",
+      "name": "Enrique Garcia",
+      "organization": "University of Belize Statistics Department",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/1Mxx8gNu1Q0uLXtNcHYI-whALW2Ns6MV_/view?usp=sharing",
+      "time": "2:45 PM - 3:00 PM",
+      "description": "The role that was given to me is to develop a webpage for the statistics department that will showcase information about the course and other materials related to it. I am using wordpress and information given to me by the department. "
+    },
+    {
+      "image": "./Assets/InternPics-A/aiyeshaColemanImage.jpg",
+      "name": "Aiyesha Coleman",
+      "organization": "Ministry of Immigration",
+      "position": "Technical Writer",
+      "resumeLink": "https://drive.google.com/file/d/1blYXPnSeuMmA-D_Q-jBosPc-vodZITjK/view?usp=sharing",
+      "time": "3:00 PM - 3:15 PM",
+      "description": "During my internship at the Ministry of Immigration, I documented the Immigration Information System and updated its user manual to ensure current instructions and guidelines. This involved expanding flow diagrams to provide a clearer representation of the system's processes for staff better understanding and usage. "
+    },
+    {
+      "image": "./Assets/InternPics-A/LeePanti.jpg",
+      "name": "Lee Edbert Panti",
+      "organization": "ThinkTech Ltd.",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/1RvXZ5dJzY68lkoJ_8Aq_o_Of5J7onAIB/view?usp=drive_link",
+      "time": "3:15 PM - 3:30 PM",
+      "description": "As a Junior Web Developer at ThinkTech Ltd, I developed a Job Portal web application using the NextJS framework, a MySQL database for efficient job listing and user data management, and integrated Next-Auth for a secure, scalable role-based authentication system. "
+    },
+    {
+      "image": "./Assets/InternPics-A/CeliaHenriquez.jpg",
+      "name": "Celia Henriquez",
+      "organization": "Caribbean Climate Change Center",
+      "position": "Network Assistant",
+      "resumeLink": "https://drive.google.com/file/d/1rBUtv0YTL-gXpRmRgZn8z4TZeR6OsEKE/view?usp=sharing",
+      "time": "3:30 PM - 3:45 PM",
+      "description": "The individual worked on various projects at the Caribbean Community Climate Change Center, including network printer reconfiguration, new network access points, and server reconfiguration. They gained experience in IP address management, cable creation, user equipment setup, and server documentation, as well as configuring network access points and printers."
+    },
+    {
+      "image": "./Assets/InternPics-A/Jordani Alpuche 2.jpg",
+      "name": "Jordani Alpuche",
+      "organization": "SIB",
+      "position": "Junior Developer",
+      "resumeLink": "https://drive.google.com/file/d/1qUM8bIfJCn0KnzIVCIRioqqPyfIcm0fX/view?usp=drive_link",
+      "time": "3:45 PM - 4:00 PM",
+      "description": "During my internship at the Statistical Institute of Belize, I created a dashboard for the MICS7 Survey. I used Oracle Apex for application development, writing JavaScript scripts to enhance interactivity and responsiveness. I also integrated a Python API for seamless data exchange and backend functionality. This experience sharpened my technical skills and provided me with valuable insights into the practical applications of software development in data analysis and presentation. The dashboard effectively processed and displayed complex survey data. "
+    },
+    {
+      "image": "./Assets/InternPics-A/AidenPinelo.jpg",
+      "name": "Aiden Pinelo",
+      "organization": "Institutional Advancement Office",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/1-5UoXz36RTNBg43p3YxSFdatPL4zoc5H/view?usp=sharing",
+      "time": "4:00 PM - 4:15 PM",
+      "description": "As an intern web developer at the Institutional Advancement Office, my primary duty was to design and develop a landing page that serves as a comprehensive information hub about the office and the University of Belize (UB). This page is designed to inform and facilitate interaction with stakeholders and prospective partners."
+    },
+    {
+      "image": "./Assets/InternPics-A/DarwyneAzueta.jpeg",
+      "name": "Darwyne Azueta",
+      "organization": "Fort George hotel and spa",
+      "position": "IT Technician",
+      "resumeLink": "https://drive.google.com/file/d/1Tr56kYxzndgOnd8h6HZSada9qKBFy7_D/view?usp=drive_link",
+      "time": "4:15 PM - 4:30 PM",
+      "description": "As an IT technician at Fort George, I handled daily hardware and software system troubleshooting and was involved in the hotel's renovation project, setting up new TVs, phones, access points, and network cabling. I played a crucial role in networking and systems administration, ensuring seamless integration and functionality within the hotel's technological framework. "
+    },
+    {
+      "image": "./Assets/InternPics-A/NathanHislop.jpg",
+      "name": "Nathan Hislop",
+      "organization": "Belize City Council",
+      "position": "Junior Technician",
+      "resumeLink": "https://drive.google.com/file/d/1WtdmC-bhSVlqTg54dXGgBYzu9v_1UwiG/view?usp=sharing",
+      "time": "4:30 PM - 4:45 PM",
+      "description": "As a Junior Technician at Belize City Council,  I was responsible for the installation and repair of cameras across various departments. My duties also encompassed printer maintenance, which involved troubleshooting issues and replacing ink cartridges. Furthermore, I provided computer troubleshooting and repair services, ensuring that all technological equipment functioned efficiently and effectively around the council. "
+    }
   ],
   "bachelorInterns": [
-    
-      {
-        "image": "InternPics-B/TalibMarin_InternshipPhoto.jpg",
-        "name": "Talib U. Marin",
-        "organization": "The University of Belize",
-        "position": "Junior Web Developer",
-        "resumeLink": "https://drive.google.com/file/d/1-IKWUVYOwDwcRUUQ2l755b7U9IVtOGvc/view?usp=sharing",
-        "time": "9:00AM - 9:15AM",
-        "description": "As an intern at the University of Belize, I am tasked with developing a custom web application for the university's recreation center. My responsibilities include frontend and backend development, collaborating with stakeholders to ensure the application meets their needs. I also contribute to other web page initiatives, such as redesigning existing pages or optimizing performance using various tools and languages."     
-      },
-      {
-        "image": "InternPics-B/MichaelGomez2.jpg",
-        "name": "Michael Gomez",
-        "organization": "The Financial Services Commission",
-        "position": "Application Developer",
-        "resumeLink": "https://drive.google.com/file/d/1lRsbma-oCI0RWRemrbR5yQ5LS8e-w-H5/view?usp=sharing",
-        "time": "9:15AM - 9:30AM",
-        "description": "As an intern at the Financial Services Commission, I embraced the challenge of learning a new language: TypeScript and developed my component-based programming skills. I gained insights into authentication and access control, collaborated with various departments in meetings, and honed my skills by developing a backend/API and working with MongoDB. "     
-      },
+    {
+      "image": "./Assets/InternPics-B/TalibMarin_InternshipPhoto.jpg",
+      "name": "Talib U. Marin",
+      "organization": "The University of Belize",
+      "position": "Junior Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/1-IKWUVYOwDwcRUUQ2l755b7U9IVtOGvc/view?usp=sharing",
+      "time": "9:00AM - 9:15AM",
+      "description": "As an intern at the University of Belize, I am tasked with developing a custom web application for the university's recreation center. My responsibilities include frontend and backend development, collaborating with stakeholders to ensure the application meets their needs. I also contribute to other web page initiatives, such as redesigning existing pages or optimizing performance using various tools and languages."
+    },
+    {
+      "image": "./Assets/InternPics-B/MichaelGomez2.jpg",
+      "name": "Michael Gomez",
+      "organization": "The Financial Services Commission",
+      "position": "Application Developer",
+      "resumeLink": "https://drive.google.com/file/d/1lRsbma-oCI0RWRemrbR5yQ5LS8e-w-H5/view?usp=sharing",
+      "time": "9:15AM - 9:30AM",
+      "description": "As an intern at the Financial Services Commission, I embraced the challenge of learning a new language: TypeScript and developed my component-based programming skills. I gained insights into authentication and access control, collaborated with various departments in meetings, and honed my skills by developing a backend/API and working with MongoDB. "
+    },
 
-      {
-        "image": "InternPics-B/MichaelSancehz.jpeg",
-        "name": "Michael N. Sanchez",
-        "organization": "CITO",
-        "position": "Network Administrator",
-        "resumeLink": "https://drive.google.com/file/d/1oMPFbyb8PFuSJNhI1sofG9Ffu8os_urT/view?usp=sharing",
-        "time": "9:30PM - 9:45 AM",
-        "description": "My internship as a Network Administrator at CITO provided me with the opportunity to integrate the FortiClient EMS with a FortiGate Firewall and FortiClient Endpoint. This setup allowed me to establish a secure VPN connection using Zero Trust Network Access tags. During my internship I gained valuable skills in network security, firewall configuration, and VPN management. "     
-      },
-      
-      {
-        "image": "InternPics-B/Jovan.jpg",
-        "name": "Jovan Alpuche",
-        "organization": "Ministry of The Public Service, Constitutional and Political Reform, and Religious Affairs",
-        "position": "Network Administrator",
-        "resumeLink": "https://drive.google.com/file/d/1lG5z8wMIyQv9gF5noFqei_s9UopgMvx7/view?usp=drive_link",
-        "time": "9:45AM - 10:00AM",
-        "description": "During my internship at the Ministry of Public Service, I served as Network Administrator 2, learning various networking skills such as running network cables and working with switches. My biggest task was installing firewall software on an old machine and configuring it for a unit under the Ministry of Public Service. I hope to complete my next big task of creating a file sharing server for a different unit by the end of the internship. "      
-      },
-      {
-        "image": "InternPics-B/Ryan Armstrong Picture.jpg",
-        "name": "Ryan Armstrong",
-        "organization": "Statistical Institute of Belize",
-        "position": "Software Developer",
-        "resumeLink": "https://drive.google.com/file/d/1ribxxVEKMRVwfRNK0ZDZsr1a3kbBWEQp/view?usp=drive_link",
-        "time": "10:00AM - 10:15AM",
-        "description": "The Statistical Institute of Belize collaborated with UNICEF on two projects. The first involved designing a monitoring dashboard using Oracle Apex for MICS7 surveys, allowing users to create, take attendance, and retrieve information from surveys using MySQL. The second project involved creating an electronic survey for HBS using Survey Solutions, building a data pipeline using R programming language, and starting a dashboard."
-      },
-      {
-        "image": "InternPics-B/RafaelRamos.jpg",
-        "name": "Rafael A. Ramos",
-        "organization": "Belize Electricity Limited",
-        "position": "Computer System Technician",
-        "resumeLink": "https://drive.google.com/file/d/1M6gKe4SmnJ6wX5OdFjYtU1tGFopCV6iL/view",
-        "time": "10:15AM - 10:30AM",
-        "description": "As a Computer System Technician at BEL, you'll secure cellular communication through VPN, test LTE modem features, and apply security measures. Configure Multi-Gig distribution switches and Next Generation Firewall for High Availability and implement SD-WAN with a robust remote access solution. Troubleshoot network-related issues at remote substations. Install and test industry-standard cat6 cables, and conduct Fiber Optic testing using Fiber Power meter and OTDR equipment for optimal performance and reliability."
-      },
-      {
-        "image": "InternPics-B/DennisArnold_Picture.jpg",
-        "name": "Dennis B. Arnold",
-        "organization": "Speednet Communications",
-        "position": "Software Developer",
-        "resumeLink": "https://drive.google.com/file/d/1TBMNqn7G74fFgvNwIqpKk10FLzpsT89C/view?usp=sharing",
-        "time": "10:30AM - 10:45AM",
-        "description": "As an intern at Smart, I worked in the development department using various tools like Docker, Go, JavaScript, HTML, PostgreSQL, and HTMX to create an application for updating IVR system audio prompts and scripts. I improved my skills in code fixing, clear writing, and problem-solving, enhancing project quality."
-      },
-      {
-        "image": "InternPics-B/KimberlyCastillo.png",
-        "name": "Kimberly Castillo",
-        "organization": "The Belize Collection",
-        "position": "Web Developer",
-        "resumeLink": "https://drive.google.com/file/d/1pI2EbRED1tajoSNBkWW4SjX3L-kSk2S8/view?usp=sharing",
-        "time": "10:45AM - 11:00AM",
-        "description": "During my time at The Belize Collection, I have improved my skills in website building, content management, time management, and communication. I have honed my responsive design, HTML, CSS, and JavaScript skills, and have a strong understanding of SEO. I have also redesigned a real estate website, focusing on user-friendliness. As a technical assistance, I have made the office process efficient and simple. I have also dabbled into the Graphic Design and started learning Adobe Illustrator basics."
-      },
-      {
-        "image": "InternPics-B/Francis Mejia.jpg",
-        "name": "Francis D. Mejia",
-        "organization": "Ministry of Natural Resources, Petroleum and Mining",
-        "position": "Junior Network Admin",
-        "resumeLink": "https://drive.google.com/file/d/1mg8RUM1LSBezMhxXa_-IR5chbyhxoSpE/view?usp=sharing",
-        "time": "11:00AM - 11:15AM",
-        "description": "During my internship as a Junior Network Admin at the Ministry of Natural Resources, Petroleum and Mining, I worked on various networking tasks such as installing Wall Mount Rack Cabinets, setting up switches and DVRs, running CAT6 cables,configuring workstations, installing keystone jacks, connecting devices to patch panels, supporting the National Estate and Hydrology Department's network setup, tracing ports,dismantling old cameras, setting up printers, and organizing network racks."
-      },
-      {
-        "image": "InternPics-B/HipolitoBautista.jpeg",
-        "name": "Hipolito A Bautista",
-        "organization": "Adaviv",
-        "position": "Software Engineer",
-        "resumeLink": "https://drive.google.com/file/d/1oq3g0lUbLIw_ZJ6mMhvIXtDyuBAcu6W-/view?usp=drive_link",
-        "time": "11:15AM - 11:30AM",
-        "description": "Adaviv, an international organization, has honed my development skills through a fast-paced, customer-centric environment. I contributed to front-end and back-end development of production software, primarily using Javascript, React, and React Native. For back-end development, I expanded my knowledge of AWS, Firebase, and Python. As a lifelong learner, I've participated in the UI/UX Development lifecycle, roadmap refinement, and Agile Development Cycle. A remote internship further developed my self-starter, self-motivated, and adaptable nature."
-      },
-      {         
-        "time": "11:45 AM - 1:00 PM",
-        "description": "Lunch Break"
-      },
-      {
-        "image": "InternPics-B/AzrielCuellar.jpg",
-        "name": "Azriel Cuellar",
-        "organization": "CITO",
-        "position": "Junior System Admin",
-        "resumeLink": "https://drive.google.com/file/d/1A193J6-2B5GhwqsF4_bTkl_gBNuQPShz/view?usp=sharing",
-        "time": "1:00PM -1:15PM",
-        "description": "During my time at the Central Information Technology Office, I worked on various projects, including deploying virtual machines in Microsoft Azure, adding devices to Windows Autopilot, setting up a distributed file system namespace, testing the namespace and its replication procedure, and deploying a group-managed service account. I also created a logical diagram of servers in NetBox and deployed SMTP relays in Microsoft IIS 6.0 Manager and hMailServer, enhancing my critical thinking abilities."     
-      },
-     
-      {
-        "image": "InternPics-B/AbelBlanco_square.png",
-        "name": "Abel A. Blanco",
-        "organization": "Bella Digital",
-        "position": "Full Stack Developer",
-        "resumeLink": "https://drive.google.com/file/d/1W_UoJwJhRfDd6HsHxFfkyNiouCw5hhB0/view?usp=sharing",
-        "time": "1:15PM - 1:30PM",
-        "description": "During my internship at Bella Digital in Honduras, I worked on front-end and back-end modifications for a doctor's software system using Laravel, React, Tailwind, MongoDB, and MySQL. I gained experience with tools like Docker, Mailpit, Twilio, Amazon S3 Buckets, AWS CLI, and LocalStack. I also learned search engine optimization techniques, enhancing my web development and digital marketing skills."     
-      },
-      {
-        "image": "InternPics-B/LianniMatthews.png",
-        "name": "Lianni Matthews",
-        "organization": "Belize Electricity Limited",
-        "position": "Software Developer",
-        "resumeLink": "https://drive.google.com/file/d/1QiBbX02bSyeIhVjBEmn7JRXtkgibLkA5/view?usp=sharing",
-        "time": "1:30PM - 1:45PM",
-        "description": "As a Software Developer at Belize Electricity Limited, I managed the entire web application development process, from planning to testing. My expertise includes project management, mastering various development tools and technologies, and ensuring applications meet functional and design requirements. I used various tools like Microsoft SQL Server, VB.NET framework, Javascript, CSS, and HTML to create the backend and frontend, fostering innovation and driving excellence in software development."     
-      },
-      {
-        "image": "InternPics-B/Levi_.jpg",
-        "name": "Levi Coc",
-        "organization": "E-Governance & Digitalization",
-        "position": "Web Developer",
-        "resumeLink": "https://drive.google.com/file/d/1X0uIqY695bJP-gVNOvlzSQDqxKXcq5GL/view?usp=sharing",
-        "time": "1:45PM - 2:00PM",
-        "description": "During my time at E-Gov, I worked on various development aspects, including backend and frontend, SQL, plugin, and MySQL. I also migrated websites to the latest PHP version, enhancing my proficiency in HTML5, CSS, and JavaScript. Critical thinking became crucial due to common errors in WordPress development, allowing me to address complex scenarios and improve my PHP proficiency over time."     
-      },
-      {
-        "image": "InternPics-B/AazanIqbal.png",
-        "name": "Aazan M. Iqbal",
-        "organization": "Belize Bank",
-        "position": "Software Developer",
-        "resumeLink": "https://drive.google.com/file/d/1OfCki4z9ubpYU0QeNrGl4jUe24fPRsUp/view?usp=sharing",
-        "time": "2:00PM - 2:15PM",
-        "description": "During an internship at Belize Bank, I added a new feature to their backend application for sending mass messages to customers. The microservice was converted into a full-stack web app using Angular, Node Js, Loopback, Ngnix, and MYSQL technologies. The internship provided experience in full stack web development and technical documentation for the code."      
-      }
+    {
+      "image": "./Assets/InternPics-B/MichaelSancehz.jpeg",
+      "name": "Michael N. Sanchez",
+      "organization": "CITO",
+      "position": "Network Administrator",
+      "resumeLink": "https://drive.google.com/file/d/1oMPFbyb8PFuSJNhI1sofG9Ffu8os_urT/view?usp=sharing",
+      "time": "9:30PM - 9:45 AM",
+      "description": "My internship as a Network Administrator at CITO provided me with the opportunity to integrate the FortiClient EMS with a FortiGate Firewall and FortiClient Endpoint. This setup allowed me to establish a secure VPN connection using Zero Trust Network Access tags. During my internship I gained valuable skills in network security, firewall configuration, and VPN management. "
+    },
 
+    {
+      "image": "./Assets/InternPics-B/Jovan.jpg",
+      "name": "Jovan Alpuche",
+      "organization": "Ministry of The Public Service, Constitutional and Political Reform, and Religious Affairs",
+      "position": "Network Administrator",
+      "resumeLink": "https://drive.google.com/file/d/1lG5z8wMIyQv9gF5noFqei_s9UopgMvx7/view?usp=drive_link",
+      "time": "9:45AM - 10:00AM",
+      "description": "During my internship at the Ministry of Public Service, I served as Network Administrator 2, learning various networking skills such as running network cables and working with switches. My biggest task was installing firewall software on an old machine and configuring it for a unit under the Ministry of Public Service. I hope to complete my next big task of creating a file sharing server for a different unit by the end of the internship. "
+    },
+    {
+      "image": "./Assets/InternPics-B/Ryan Armstrong Picture.jpg",
+      "name": "Ryan Armstrong",
+      "organization": "Statistical Institute of Belize",
+      "position": "Software Developer",
+      "resumeLink": "https://drive.google.com/file/d/1ribxxVEKMRVwfRNK0ZDZsr1a3kbBWEQp/view?usp=drive_link",
+      "time": "10:00AM - 10:15AM",
+      "description": "The Statistical Institute of Belize collaborated with UNICEF on two projects. The first involved designing a monitoring dashboard using Oracle Apex for MICS7 surveys, allowing users to create, take attendance, and retrieve information from surveys using MySQL. The second project involved creating an electronic survey for HBS using Survey Solutions, building a data pipeline using R programming language, and starting a dashboard."
+    },
+    {
+      "image": "./Assets/InternPics-B/RafaelRamos.jpg",
+      "name": "Rafael A. Ramos",
+      "organization": "Belize Electricity Limited",
+      "position": "Computer System Technician",
+      "resumeLink": "https://drive.google.com/file/d/1M6gKe4SmnJ6wX5OdFjYtU1tGFopCV6iL/view",
+      "time": "10:15AM - 10:30AM",
+      "description": "As a Computer System Technician at BEL, you'll secure cellular communication through VPN, test LTE modem features, and apply security measures. Configure Multi-Gig distribution switches and Next Generation Firewall for High Availability and implement SD-WAN with a robust remote access solution. Troubleshoot network-related issues at remote substations. Install and test industry-standard cat6 cables, and conduct Fiber Optic testing using Fiber Power meter and OTDR equipment for optimal performance and reliability."
+    },
+    {
+      "image": "./Assets/InternPics-B/DennisArnold_Picture.jpg",
+      "name": "Dennis B. Arnold",
+      "organization": "Speednet Communications",
+      "position": "Software Developer",
+      "resumeLink": "https://drive.google.com/file/d/1TBMNqn7G74fFgvNwIqpKk10FLzpsT89C/view?usp=sharing",
+      "time": "10:30AM - 10:45AM",
+      "description": "As an intern at Smart, I worked in the development department using various tools like Docker, Go, JavaScript, HTML, PostgreSQL, and HTMX to create an application for updating IVR system audio prompts and scripts. I improved my skills in code fixing, clear writing, and problem-solving, enhancing project quality."
+    },
+    {
+      "image": "./Assets/InternPics-B/KimberlyCastillo.png",
+      "name": "Kimberly Castillo",
+      "organization": "The Belize Collection",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/1pI2EbRED1tajoSNBkWW4SjX3L-kSk2S8/view?usp=sharing",
+      "time": "10:45AM - 11:00AM",
+      "description": "During my time at The Belize Collection, I have improved my skills in website building, content management, time management, and communication. I have honed my responsive design, HTML, CSS, and JavaScript skills, and have a strong understanding of SEO. I have also redesigned a real estate website, focusing on user-friendliness. As a technical assistance, I have made the office process efficient and simple. I have also dabbled into the Graphic Design and started learning Adobe Illustrator basics."
+    },
+    {
+      "image": "./Assets/InternPics-B/Francis Mejia.jpg",
+      "name": "Francis D. Mejia",
+      "organization": "Ministry of Natural Resources, Petroleum and Mining",
+      "position": "Junior Network Admin",
+      "resumeLink": "https://drive.google.com/file/d/1mg8RUM1LSBezMhxXa_-IR5chbyhxoSpE/view?usp=sharing",
+      "time": "11:00AM - 11:15AM",
+      "description": "During my internship as a Junior Network Admin at the Ministry of Natural Resources, Petroleum and Mining, I worked on various networking tasks such as installing Wall Mount Rack Cabinets, setting up switches and DVRs, running CAT6 cables,configuring workstations, installing keystone jacks, connecting devices to patch panels, supporting the National Estate and Hydrology Department's network setup, tracing ports,dismantling old cameras, setting up printers, and organizing network racks."
+    },
+    {
+      "image": "./Assets/InternPics-B/HipolitoBautista.jpeg",
+      "name": "Hipolito A Bautista",
+      "organization": "Adaviv",
+      "position": "Software Engineer",
+      "resumeLink": "https://drive.google.com/file/d/1oq3g0lUbLIw_ZJ6mMhvIXtDyuBAcu6W-/view?usp=drive_link",
+      "time": "11:15AM - 11:30AM",
+      "description": "Adaviv, an international organization, has honed my development skills through a fast-paced, customer-centric environment. I contributed to front-end and back-end development of production software, primarily using Javascript, React, and React Native. For back-end development, I expanded my knowledge of AWS, Firebase, and Python. As a lifelong learner, I've participated in the UI/UX Development lifecycle, roadmap refinement, and Agile Development Cycle. A remote internship further developed my self-starter, self-motivated, and adaptable nature."
+    },
+    {
+      "name": "Lunch Break",
+      "organization": "",
+      "position": "",
+      "time": "11:45 AM - 1:00 PM",
+      "description": "Lunch Break"
+    },
+    {
+      "image": "./Assets/InternPics-B/AzrielCuellar.jpg",
+      "name": "Azriel Cuellar",
+      "organization": "CITO",
+      "position": "Junior System Admin",
+      "resumeLink": "https://drive.google.com/file/d/1A193J6-2B5GhwqsF4_bTkl_gBNuQPShz/view?usp=sharing",
+      "time": "1:00PM -1:15PM",
+      "description": "During my time at the Central Information Technology Office, I worked on various projects, including deploying virtual machines in Microsoft Azure, adding devices to Windows Autopilot, setting up a distributed file system namespace, testing the namespace and its replication procedure, and deploying a group-managed service account. I also created a logical diagram of servers in NetBox and deployed SMTP relays in Microsoft IIS 6.0 Manager and hMailServer, enhancing my critical thinking abilities."
+    },
+
+    {
+      "image": "./Assets/InternPics-B/AbelBlanco_square.png",
+      "name": "Abel A. Blanco",
+      "organization": "Bella Digital",
+      "position": "Full Stack Developer",
+      "resumeLink": "https://drive.google.com/file/d/1W_UoJwJhRfDd6HsHxFfkyNiouCw5hhB0/view?usp=sharing",
+      "time": "1:15PM - 1:30PM",
+      "description": "During my internship at Bella Digital in Honduras, I worked on front-end and back-end modifications for a doctor's software system using Laravel, React, Tailwind, MongoDB, and MySQL. I gained experience with tools like Docker, Mailpit, Twilio, Amazon S3 Buckets, AWS CLI, and LocalStack. I also learned search engine optimization techniques, enhancing my web development and digital marketing skills."
+    },
+    {
+      "image": "./Assets/InternPics-B/LianniMatthews.png",
+      "name": "Lianni Matthews",
+      "organization": "Belize Electricity Limited",
+      "position": "Software Developer",
+      "resumeLink": "https://drive.google.com/file/d/1QiBbX02bSyeIhVjBEmn7JRXtkgibLkA5/view?usp=sharing",
+      "time": "1:30PM - 1:45PM",
+      "description": "As a Software Developer at Belize Electricity Limited, I managed the entire web application development process, from planning to testing. My expertise includes project management, mastering various development tools and technologies, and ensuring applications meet functional and design requirements. I used various tools like Microsoft SQL Server, VB.NET framework, Javascript, CSS, and HTML to create the backend and frontend, fostering innovation and driving excellence in software development."
+    },
+    {
+      "image": "./Assets/InternPics-B/Levi_.jpg",
+      "name": "Levi Coc",
+      "organization": "E-Governance & Digitalization",
+      "position": "Web Developer",
+      "resumeLink": "https://drive.google.com/file/d/1X0uIqY695bJP-gVNOvlzSQDqxKXcq5GL/view?usp=sharing",
+      "time": "1:45PM - 2:00PM",
+      "description": "During my time at E-Gov, I worked on various development aspects, including backend and frontend, SQL, plugin, and MySQL. I also migrated websites to the latest PHP version, enhancing my proficiency in HTML5, CSS, and JavaScript. Critical thinking became crucial due to common errors in WordPress development, allowing me to address complex scenarios and improve my PHP proficiency over time."
+    },
+    {
+      "image": "./Assets/InternPics-B/AazanIqbal.png",
+      "name": "Aazan M. Iqbal",
+      "organization": "Belize Bank",
+      "position": "Software Developer",
+      "resumeLink": "https://drive.google.com/file/d/1OfCki4z9ubpYU0QeNrGl4jUe24fPRsUp/view?usp=sharing",
+      "time": "2:00PM - 2:15PM",
+      "description": "During an internship at Belize Bank, I added a new feature to their backend application for sending mass messages to customers. The microservice was converted into a full-stack web app using Angular, Node Js, Loopback, Ngnix, and MYSQL technologies. The internship provided experience in full stack web development and technical documentation for the code."
+    }
   ]
 }

@@ -132,7 +132,7 @@
 
 /* --------------------------------------Host Logo cards-------------------------------------------------------------------- */
 
-.card {
+.host-card {
   width: 200px;
   height: 200px;
   transition: all 0.4s;
@@ -140,7 +140,7 @@
   border: none; /* Remove border */
 }
 
-.card:hover {
+.host-card:hover {
   border-radius: 15px;
   cursor: pointer;
   transform: scale(1);
@@ -158,7 +158,7 @@
   border: none; /* Remove border */
 }
 
-.card:hover .first-content {
+.host-card:hover .first-content {
   height: 0px;
   opacity: 0;
 }
@@ -178,7 +178,7 @@
   padding: 4px;
 }
 
-.card:hover .second-content {
+.host-card:hover .second-content {
   opacity: 1;
   height: 100%;
   font-size: 1rem;
@@ -190,6 +190,42 @@
   width: auto;
   max-height: 100%;
 }
+/* ----------------------------------------timeline------------------------------------------------------------------ */
+.bsb-timeline-8 .timeline > .timeline-item .timeline-meta {
+  left: -50%;
+  justify-content: flex-start;
+}
+
+.date-meta {
+  color: #fff;
+  background: #5e06b5;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.timeline-content {
+  background: #fff;
+}
+.bsb-timeline-8 .timeline > .timeline-item:after {
+  z-index: 2;
+}
+.bsb-timeline-8 .timeline::after {
+  z-index: 1;
+  background-color: #005dec;
+}
+
+@media (min-width: 768px) {
+  .bsb-timeline-8 .timeline > .timeline-item .timeline-meta {
+    top: calc(45% - 10px);
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .bsb-timeline-8 .timeline > .timeline-item .timeline-meta {
+    left: -33%;
+  }
+}
+
 /*---------------------------------------- footer --------------------------------------------------------------------- */
 
 #footer {
