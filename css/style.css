@@ -225,6 +225,31 @@
     left: -33%;
   }
 }
+/* ---------------------------------------toggle button----------------------------------------------------------------- */
+
+.toggle-btn {
+  background: #fff;
+  border: 1px solid #1b082f;
+  border-radius: 10px;
+  padding: 5px 3em;
+  align-items: center;
+  cursor: pointer;
+  font-size: 1rem;
+  letter-spacing: 1px;
+}
+
+.toggle-btn:hover {
+  background: #5e06b5e0;
+  color: #fff;
+  /* let the hover be smooth */
+  transition: all 0.3s;
+}
+
+.toggle-btn.active {
+  background: #fdc200;
+  color: #000000;
+  border: 1px solid #5e06b55f;
+}
 
 /*---------------------------------------- footer --------------------------------------------------------------------- */
 
