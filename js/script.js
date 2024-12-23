@@ -1,4 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
+  internCards();
+  interntimeline();
+});
+
+function interntimeline() {
   const associatesBtn = document.getElementById("associatesBtn");
   const bachelorsBtn = document.getElementById("bachelorsBtn");
 
@@ -63,4 +68,63 @@ document.addEventListener("DOMContentLoaded", () => {
     bachelorsBtn.classList.add("active");
     associatesBtn.classList.remove("active");
   });
-});
+}
+
+function internCards() {
+  const associatesContainer = document.getElementById("associates-container");
+  const bachelorsContainer = document.getElementById("bachelors-container");
+
+  // Fetch associates and bachelors data
+  fetch("./JSON/interns.json")
+    .then((response) => response.json())
+    .then((data) => {
+      // Load Associates Interns
+      loadInterns(data.associatesInterns, associatesContainer);
+
+      // Load Bachelors Interns
+      loadInterns(data.bachelorInterns, bachelorsContainer);
+    })
+    .catch((error) => {
+      console.error("Error loading intern data:", error);
+    });
+
+  function loadInterns(interns, container) {
+    container.innerHTML = "";
+    interns
+      .filter((intern) => intern.name !== "Lunch Break")
+      .forEach((intern) => {
+        const internCard = `
+         <div class="col d-flex justify-content-center align-content-center ">
+           <div class="intern-card">
+             <div class="back d-flex justify-content-center align-content-center">
+               <div class="content">
+                 <div class="container-fluid img-container px-0">
+                   <img src="${intern.image}" class="image-f fade-in-image"
+                        alt="${intern.name}" loading="lazy" />
+                 </div>
+                 <div class="description text-white">
+                   <h6 class="mb-1 fs-6">${intern.name}</h6>
+                   <span class="fw-light fs-7">${intern.position}</span>
+                   <p class="mt-1">${intern.organization}</p>
+                 </div>
+                 ${intern.resumeLink ? `<a href="${intern.resumeLink}" class="resume-btn" target="_blank"> Resume</a>` : `<a href="#" class="resume-btn disabled" tabindex="-1" aria-disabled="true">Resume Unavailable</a>`}
+               </div>
+             </div>
+           </div>
+         </div>`;
+        container.innerHTML += internCard;
+      });
+
+    const images = container.querySelectorAll("img.fade-in-image");
+    images.forEach((img) => {
+      img.addEventListener("load", () => {
+        img.classList.add("loaded");
+      });
+      img.addEventListener("error", () => {
+        console.error(`Failed to load image: ${img.src}`);
+        img.classList.add("loaded"); // Optional: Remove opacity even if image fails
+        img.src = "./Assets/placeholder.png"; // Optional: Set a placeholder image
+      });
+    });
+  }
+}
